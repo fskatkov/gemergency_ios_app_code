@@ -2,7 +2,7 @@
 
 ## Status update
 
-The Gemergency project was noticed by the Google AI Devevelopers. on X platform. For more details, go to the following link:
+The Gemergency project was noticed by the Google AI Developers on X platform. For more details, go to the following link:
 
 https://x.com/googleaidevs/status/2014745652744618010
 
