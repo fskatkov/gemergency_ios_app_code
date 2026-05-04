@@ -1,5 +1,11 @@
 # Gemergency
 
+## Status update
+
+The Gemergency project was noticed by the Google AI Devevelopers. on X platform. For more details, go to the following link:
+
+https://x.com/googleaidevs/status/2014745652744618010
+
 ## Overview
 
 <p>We are very excited to present you Gemergency - an iOS help assistant app based on Google Gemma 3n LLM. This project was build for the <a href="https://www.kaggle.com/competitions/google-gemma-3n-hackathon">Google's hackathon "Google - The Gemma 3n Impact Challenge" on Kaggle</a></p>
